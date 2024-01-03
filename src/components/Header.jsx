@@ -3,9 +3,7 @@ import styled from 'styled-components';
 
 const Logo = styled.img`
   width: 154px;
-  height: 20px;
-  display: flex;
-  align-items: center;
+  height: 30px;
 `;
 
 export default function Header() {
